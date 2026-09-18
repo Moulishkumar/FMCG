@@ -26,6 +26,28 @@ This Power BI dashboard provides interactive analysis of:
 
 ---
 
+## Dashboard Snapshots
+
+### Home Page
+![Home Page](images/home-page.png)
+
+### Sales Analysis
+![Sales Analysis](images/sales-analysis-page.png)
+
+### Customer Analysis
+![Customer Analysis](images/customer-analysis-page.png)
+
+### Customer Analysis – Quantity Tooltip
+![Quantity Tooltip](images/quantity-tooltip.png)
+
+### Customer Analysis – Sales Tooltip
+![Sales Tooltip](images/sales-tooltip.png)
+
+### Info Page
+![Info Page](images/info-page.png)
+
+---
+
 ## Dashboard Pages
 
 ### Home
